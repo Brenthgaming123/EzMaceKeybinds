@@ -1,0 +1,10 @@
+{
+  "key.ezmacekeybinds.firework_trigger": "Trigger Firework",
+  "key.ezmacekeybinds.elytra_armor_swap": "Trigger Elytra/Armor Swap",
+  "key.ezmacekeybinds.elytra_mode_toggle": "Elytra Armor Swap/Revert Mode",
+  "key.ezmacekeybinds.wind_charge_trigger": "Trigger Wind Charge",
+  "key.ezmacekeybinds.pearl_catch_sequence": "Trigger Pearl Catch",
+  "key.ezmacekeybinds.air_pot_sequence": "Trigger Air Pot",
+  "key.ezmacekeybinds.throw_pearl": "Trigger Pearl",
+  "key.category.ezmacekeybinds.main": "Ez Mace Keybinds"
+}
