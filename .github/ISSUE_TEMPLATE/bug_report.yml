@@ -1,0 +1,39 @@
+name: Bug report
+description: Report a bug or unwanted behavior in Ez Mace Keybinds
+labels: ["Bug"]
+body:
+  - type: input
+    id: mc_version
+    attributes:
+      label: Minecraft version
+      placeholder: "26.2"
+    validations:
+      required: true
+  - type: dropdown
+    id: loader
+    attributes:
+      label: Loader
+      options:
+        - Fabric
+        - Quilt
+    validations:
+      required: true
+  - type: input
+    id: mod_version
+    attributes:
+      label: Mod version
+      placeholder: "1.1"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Which keybind, what you expected, and what actually happened.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Crash report or log
+      description: Paste latest.log or the crash report here, if you have one.

@@ -1,0 +1,10 @@
+name: Message
+description: Talk publicly with the mod author
+labels: ["Message"]
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+    validations:
+      required: true

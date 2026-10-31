@@ -1,0 +1,11 @@
+name: Feature
+description: Request a new keybind or something else to be added
+labels: ["Feature"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like added?
+      description: Describe the new keybind or change, and how it should work.
+    validations:
+      required: true
