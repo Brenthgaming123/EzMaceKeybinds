@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "ezmacekeybinds",
+  "version": "${version}",
+  "name": "Ez Mace Keybinds",
+  "description": "Struggling to do Mace techniques? This could be your chance to get good like Mace PvPers! This mod have keybinds where you can air pot easily, swap or revert between elytra and mace easily, use fireworks easily, pearl catch easily, use pearl easily, use wind charge easily, lunge swap easily, all of that with just keybinds! All keybinds by default are unbound; configure them in Options > Controls > Key Binds > Ez Mace Keybinds. Good luck at PvPing and Macing!",
+  "authors": [
+    "Timmy",
+    "Brenthgaming123"
+  ],
+  "license": "MIT",
+  "icon": "assets/ezmacekeybinds/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.ezelytramace.EzElytraMace"
+    ]
+  },
+  "mixins": [
+    "ezmacekeybinds.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": ">=26.1 <27",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
