@@ -1,7 +1,0 @@
-{
-  "required": false,
-  "package": "com.ezelytramace.mixin",
-  "compatibilityLevel": "JAVA_21",
-  "client": [],
-  "injectors": { "defaultRequire": 0 }
-}
