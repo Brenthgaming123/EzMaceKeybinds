@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/icon.png" width="150">
+<img src="Assets/Icon.png" width="150">
 
 # Ez Mace Keybinds
 
