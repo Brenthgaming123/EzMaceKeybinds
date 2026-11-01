@@ -4,31 +4,11 @@
 
 # Ez Mace Keybinds
 
-[
-
-![Environment](https://img.shields.io/badge/Environment-Client-purple)
-
-](https://modrinth.com/mods?e=client)
-[
-
-![Loader](https://img.shields.io/badge/Loader-Fabric-blue)
-
-](https://fabricmc.net/)
-[
-
-![Quilt](https://img.shields.io/badge/Quilt-should%20work-lightgrey)
-
-](https://quiltmc.org/)
-[
-
-![Java](https://img.shields.io/badge/Java-25-orange)
-
-](https://adoptium.net/)
-[
-
-![License](https://img.shields.io/badge/License-MIT-green)
-
-](LICENSE)
+<a href="https://modrinth.com/mods?e=client"><img src="https://img.shields.io/badge/Environment-Client-purple" alt="Environment: Client"></a>
+<a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Loader-Fabric-blue" alt="Loader: Fabric"></a>
+<a href="https://quiltmc.org/"><img src="https://img.shields.io/badge/Quilt-should%20work-lightgrey" alt="Quilt: should work"></a>
+<a href="https://adoptium.net/"><img src="https://img.shields.io/badge/Java-25-orange" alt="Java 25"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License: MIT"></a>
 
 <!-- Add your Modrinth / CurseForge / Discord badges here once the pages exist -->
 
@@ -52,11 +32,11 @@ All keybinds are **unbound by default**, so nothing interferes with your control
 
 ## Compatibility
 
-| Folder | Minecraft | Mod version | Lunge Swap | Java |
+| Branch | Minecraft | Mod version | Lunge Swap | Java |
 |--------|-----------|-------------|------------|------|
-| [`versions/1.0-1.21.x`](versions/1.0-1.21.x) | 1.21 – 1.21.11 | 1.0 | No | 21+ |
-| [`versions/1.1-1.21.11`](versions/1.1-1.21.11) | 1.21.11 only | 1.1 | Yes | 21+ |
-| [`versions/1.1-26.x`](versions/1.1-26.x) | 26.x (>=26.1 <27) | 1.1 | Yes | **25+** |
+| [`1.21.x`](https://github.com/Brenthgaming123/EzMaceKeybinds/tree/1.21.x) | 1.21 – 1.21.11 | 1.0 | No | 21+ |
+| [`1.21.11`](https://github.com/Brenthgaming123/EzMaceKeybinds/tree/1.21.11) | 1.21.11 only | 1.1 | Yes | 21+ |
+| [`26.x`](https://github.com/Brenthgaming123/EzMaceKeybinds/tree/26.x) | 26.x (>=26.1 <27) | 1.1 | Yes | **25+** |
 
 - **Fabric + Fabric API:** supported
 - **Quilt:** should work through Fabric compatibility, but is not fully tested
