@@ -2,7 +2,7 @@
   "schema": "1",
   "id": "ezmacekeybinds",
   "platforms": {
-    "modrinth": "ezmacekeybinds"
+    "curseforge": "ezmacekeybinds"
   },
   "owners": ["brenthgaming123"],
   "licenses": {
