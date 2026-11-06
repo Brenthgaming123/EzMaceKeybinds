@@ -1,0 +1,14 @@
+{
+  "schema": "1",
+  "id": "ezmacekeybinds",
+  "platforms": {
+    "modrinth": "ezmacekeybinds"
+  },
+  "owners": ["brenthgaming123"],
+  "licenses": {
+    "project": {
+      "id": "MIT",
+      "url": "https://github.com/Brenthgaming123/EzMaceKeybinds/blob/Main/LICENSE"
+    }
+  }
+}
