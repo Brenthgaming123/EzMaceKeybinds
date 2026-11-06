@@ -1,4 +1,14 @@
 {
   "introduction.mdx": "Introduction",
-  "keybinds.mdx": "Keybinds"
+  "installation.mdx": "Installation",
+  "setup.mdx": "Setup",
+  "keybinds": "Keybinds",
+  "showcase.mdx": "Showcase",
+  "supported_versions.mdx": "Supported versions",
+  "known_issues.mdx": "Known issues",
+  "faq.mdx": "FAQ",
+  "reporting_bugs.mdx": "Reporting bugs",
+  "servers.mdx": "Using it on servers",
+  "contributing.mdx": "Contributing",
+  "changelog.mdx": "Changelog"
 }

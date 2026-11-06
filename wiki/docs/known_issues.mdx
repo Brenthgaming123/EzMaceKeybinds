@@ -1,0 +1,17 @@
+# Known issues
+
+## Minecraft 26.1 and 26.3 are untested
+
+The 26.x build was made against 26.2. If another 26.x version changed part of the game's code, a keybind might fail when you press it. If this happens, report it with your latest.log.
+
+## Quilt is not fully tested
+
+Quilt should load the mod through its Fabric compatibility, but this has not been fully tested. Use Fabric API on Quilt.
+
+## Items must be in the hotbar
+
+Keybinds only look for items in your hotbar. If an item is deeper in your inventory, the keybind does nothing.
+
+## Servers may flag it
+
+The mod automates item swapping and use in timed sequences. Check a server's rules before using it on multiplayer.
